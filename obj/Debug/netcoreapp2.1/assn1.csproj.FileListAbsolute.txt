@@ -18,3 +18,13 @@ C:\Users\S536881\Documents\dotnet\dotnet_basic_program\dotnet_basic_program\obj\
 C:\Users\S536881\Documents\dotnet\dotnet_basic_program\dotnet_basic_program\obj\Debug\netcoreapp2.1\assn1.AssemblyInfo.cs
 C:\Users\S536881\Documents\dotnet\dotnet_basic_program\dotnet_basic_program\obj\Debug\netcoreapp2.1\assn1.dll
 C:\Users\S536881\Documents\dotnet\dotnet_basic_program\dotnet_basic_program\obj\Debug\netcoreapp2.1\assn1.pdb
+C:\Users\S536881\Documents\dotnet\dotnet_basic_program\bin\Debug\netcoreapp2.1\assn1.deps.json
+C:\Users\S536881\Documents\dotnet\dotnet_basic_program\bin\Debug\netcoreapp2.1\assn1.runtimeconfig.json
+C:\Users\S536881\Documents\dotnet\dotnet_basic_program\bin\Debug\netcoreapp2.1\assn1.runtimeconfig.dev.json
+C:\Users\S536881\Documents\dotnet\dotnet_basic_program\bin\Debug\netcoreapp2.1\assn1.dll
+C:\Users\S536881\Documents\dotnet\dotnet_basic_program\bin\Debug\netcoreapp2.1\assn1.pdb
+C:\Users\S536881\Documents\dotnet\dotnet_basic_program\obj\Debug\netcoreapp2.1\assn1.csprojAssemblyReference.cache
+C:\Users\S536881\Documents\dotnet\dotnet_basic_program\obj\Debug\netcoreapp2.1\assn1.AssemblyInfoInputs.cache
+C:\Users\S536881\Documents\dotnet\dotnet_basic_program\obj\Debug\netcoreapp2.1\assn1.AssemblyInfo.cs
+C:\Users\S536881\Documents\dotnet\dotnet_basic_program\obj\Debug\netcoreapp2.1\assn1.dll
+C:\Users\S536881\Documents\dotnet\dotnet_basic_program\obj\Debug\netcoreapp2.1\assn1.pdb
