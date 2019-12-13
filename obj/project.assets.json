@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S536881\\Documents\\dotnet\\dotnet_basic_program\\dotnet_basic_program\\assn1.csproj",
+      "projectUniqueName": "C:\\Users\\S536881\\Documents\\dotnet\\dotnet_basic_program\\assn1.csproj",
       "projectName": "assn1",
-      "projectPath": "C:\\Users\\S536881\\Documents\\dotnet\\dotnet_basic_program\\dotnet_basic_program\\assn1.csproj",
+      "projectPath": "C:\\Users\\S536881\\Documents\\dotnet\\dotnet_basic_program\\assn1.csproj",
       "packagesPath": "C:\\Users\\S536881\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S536881\\Documents\\dotnet\\dotnet_basic_program\\dotnet_basic_program\\obj\\",
+      "outputPath": "C:\\Users\\S536881\\Documents\\dotnet\\dotnet_basic_program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\S536881\\AppData\\Roaming\\NuGet\\NuGet.Config",
