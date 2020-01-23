@@ -12,7 +12,10 @@ namespace assn1
             string name, x;
             decimal cost = 7.85M;
             double amount = 0;
-            Console.WriteLine("Enter your name: ");
+
+            do
+            {
+                Console.WriteLine("Please enter the full name : ");
             name = Console.ReadLine();
 
             while (name == "")
@@ -20,12 +23,11 @@ namespace assn1
                 Console.WriteLine("Sorry, Please Enter you name ?");
                 name = Console.ReadLine();
             }
-            do
-            {
+            
                 do
                 {
                     Console.WriteLine("Enter your age(>=15, <= 90) ?");
-                    //String x = int.Parse(Console.ReadLine());
+                    
                     x = Console.ReadLine();
                 } while (x == "");
                 check = int.Parse(x);
@@ -43,7 +45,7 @@ namespace assn1
                 {
                     age = false;
                     Console.WriteLine("Your Age is below 15, you need a guardian to book a ticket.");
-                    Console.WriteLine($"Sorry! {name} you have to be above 15+ to buy movie ticket.");
+                    //Console.WriteLine($"Sorry! {name} you have to be above 15+ to buy movie ticket.");
                 }
                 int selection;
                 String[] movies_tiers = { "Standard", "Imax", "Imax-3D" };
